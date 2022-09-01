@@ -1,2 +1,3 @@
 #!/bin/bash
-clown -h vicent:staff _hello
+clown -h betty:holberton _hello
+

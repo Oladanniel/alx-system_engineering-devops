@@ -1,2 +1,3 @@
 #!/bin/bash
-grap -c "bin" /etc/passwd
+grap bin /etc/passwd | wc -|
+    
